@@ -1,0 +1,6 @@
+<dependency>
+	<groupId>org.jdbdt</groupId>
+	<artifactId>jdbdt</artifactId>
+	<version>1.4.1</version>
+	<scope>test</scope>
+</dependency>
